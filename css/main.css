@@ -68,7 +68,15 @@ a#scrollUp i {
 /*************************
 *******Header CSS******
 **************************/
-
+.logo img {
+    margin-left: -15px;
+}
+.header-middle .btn-group.pull-right {
+    padding-top: 4px;
+}
+.shop-menu {
+    padding-top: 5px;
+}
 .header_top {
     background: none repeat scroll 0 0 #F0F0E9;
 }
